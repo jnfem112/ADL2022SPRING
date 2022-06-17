@@ -1,0 +1,602 @@
+[
+    {
+        "intent": "accept_reservations",
+        "label": 0
+    },
+    {
+        "intent": "account_blocked",
+        "label": 1
+    },
+    {
+        "intent": "alarm",
+        "label": 2
+    },
+    {
+        "intent": "application_status",
+        "label": 3
+    },
+    {
+        "intent": "apr",
+        "label": 4
+    },
+    {
+        "intent": "are_you_a_bot",
+        "label": 5
+    },
+    {
+        "intent": "balance",
+        "label": 6
+    },
+    {
+        "intent": "bill_balance",
+        "label": 7
+    },
+    {
+        "intent": "bill_due",
+        "label": 8
+    },
+    {
+        "intent": "book_flight",
+        "label": 9
+    },
+    {
+        "intent": "book_hotel",
+        "label": 10
+    },
+    {
+        "intent": "calculator",
+        "label": 11
+    },
+    {
+        "intent": "calendar",
+        "label": 12
+    },
+    {
+        "intent": "calendar_update",
+        "label": 13
+    },
+    {
+        "intent": "calories",
+        "label": 14
+    },
+    {
+        "intent": "cancel",
+        "label": 15
+    },
+    {
+        "intent": "cancel_reservation",
+        "label": 16
+    },
+    {
+        "intent": "car_rental",
+        "label": 17
+    },
+    {
+        "intent": "card_declined",
+        "label": 18
+    },
+    {
+        "intent": "carry_on",
+        "label": 19
+    },
+    {
+        "intent": "change_accent",
+        "label": 20
+    },
+    {
+        "intent": "change_ai_name",
+        "label": 21
+    },
+    {
+        "intent": "change_language",
+        "label": 22
+    },
+    {
+        "intent": "change_speed",
+        "label": 23
+    },
+    {
+        "intent": "change_user_name",
+        "label": 24
+    },
+    {
+        "intent": "change_volume",
+        "label": 25
+    },
+    {
+        "intent": "confirm_reservation",
+        "label": 26
+    },
+    {
+        "intent": "cook_time",
+        "label": 27
+    },
+    {
+        "intent": "credit_limit",
+        "label": 28
+    },
+    {
+        "intent": "credit_limit_change",
+        "label": 29
+    },
+    {
+        "intent": "credit_score",
+        "label": 30
+    },
+    {
+        "intent": "current_location",
+        "label": 31
+    },
+    {
+        "intent": "damaged_card",
+        "label": 32
+    },
+    {
+        "intent": "date",
+        "label": 33
+    },
+    {
+        "intent": "definition",
+        "label": 34
+    },
+    {
+        "intent": "direct_deposit",
+        "label": 35
+    },
+    {
+        "intent": "directions",
+        "label": 36
+    },
+    {
+        "intent": "distance",
+        "label": 37
+    },
+    {
+        "intent": "do_you_have_pets",
+        "label": 38
+    },
+    {
+        "intent": "exchange_rate",
+        "label": 39
+    },
+    {
+        "intent": "expiration_date",
+        "label": 40
+    },
+    {
+        "intent": "find_phone",
+        "label": 41
+    },
+    {
+        "intent": "flight_status",
+        "label": 42
+    },
+    {
+        "intent": "flip_coin",
+        "label": 43
+    },
+    {
+        "intent": "food_last",
+        "label": 44
+    },
+    {
+        "intent": "freeze_account",
+        "label": 45
+    },
+    {
+        "intent": "fun_fact",
+        "label": 46
+    },
+    {
+        "intent": "gas",
+        "label": 47
+    },
+    {
+        "intent": "gas_type",
+        "label": 48
+    },
+    {
+        "intent": "goodbye",
+        "label": 49
+    },
+    {
+        "intent": "greeting",
+        "label": 50
+    },
+    {
+        "intent": "how_busy",
+        "label": 51
+    },
+    {
+        "intent": "how_old_are_you",
+        "label": 52
+    },
+    {
+        "intent": "improve_credit_score",
+        "label": 53
+    },
+    {
+        "intent": "income",
+        "label": 54
+    },
+    {
+        "intent": "ingredient_substitution",
+        "label": 55
+    },
+    {
+        "intent": "ingredients_list",
+        "label": 56
+    },
+    {
+        "intent": "insurance",
+        "label": 57
+    },
+    {
+        "intent": "insurance_change",
+        "label": 58
+    },
+    {
+        "intent": "interest_rate",
+        "label": 59
+    },
+    {
+        "intent": "international_fees",
+        "label": 60
+    },
+    {
+        "intent": "international_visa",
+        "label": 61
+    },
+    {
+        "intent": "jump_start",
+        "label": 62
+    },
+    {
+        "intent": "last_maintenance",
+        "label": 63
+    },
+    {
+        "intent": "lost_luggage",
+        "label": 64
+    },
+    {
+        "intent": "make_call",
+        "label": 65
+    },
+    {
+        "intent": "maybe",
+        "label": 66
+    },
+    {
+        "intent": "meal_suggestion",
+        "label": 67
+    },
+    {
+        "intent": "meaning_of_life",
+        "label": 68
+    },
+    {
+        "intent": "measurement_conversion",
+        "label": 69
+    },
+    {
+        "intent": "meeting_schedule",
+        "label": 70
+    },
+    {
+        "intent": "min_payment",
+        "label": 71
+    },
+    {
+        "intent": "mpg",
+        "label": 72
+    },
+    {
+        "intent": "new_card",
+        "label": 73
+    },
+    {
+        "intent": "next_holiday",
+        "label": 74
+    },
+    {
+        "intent": "next_song",
+        "label": 75
+    },
+    {
+        "intent": "no",
+        "label": 76
+    },
+    {
+        "intent": "nutrition_info",
+        "label": 77
+    },
+    {
+        "intent": "oil_change_how",
+        "label": 78
+    },
+    {
+        "intent": "oil_change_when",
+        "label": 79
+    },
+    {
+        "intent": "order",
+        "label": 80
+    },
+    {
+        "intent": "order_checks",
+        "label": 81
+    },
+    {
+        "intent": "order_status",
+        "label": 82
+    },
+    {
+        "intent": "pay_bill",
+        "label": 83
+    },
+    {
+        "intent": "payday",
+        "label": 84
+    },
+    {
+        "intent": "pin_change",
+        "label": 85
+    },
+    {
+        "intent": "play_music",
+        "label": 86
+    },
+    {
+        "intent": "plug_type",
+        "label": 87
+    },
+    {
+        "intent": "pto_balance",
+        "label": 88
+    },
+    {
+        "intent": "pto_request",
+        "label": 89
+    },
+    {
+        "intent": "pto_request_status",
+        "label": 90
+    },
+    {
+        "intent": "pto_used",
+        "label": 91
+    },
+    {
+        "intent": "recipe",
+        "label": 92
+    },
+    {
+        "intent": "redeem_rewards",
+        "label": 93
+    },
+    {
+        "intent": "reminder",
+        "label": 94
+    },
+    {
+        "intent": "reminder_update",
+        "label": 95
+    },
+    {
+        "intent": "repeat",
+        "label": 96
+    },
+    {
+        "intent": "replacement_card_duration",
+        "label": 97
+    },
+    {
+        "intent": "report_fraud",
+        "label": 98
+    },
+    {
+        "intent": "report_lost_card",
+        "label": 99
+    },
+    {
+        "intent": "reset_settings",
+        "label": 100
+    },
+    {
+        "intent": "restaurant_reservation",
+        "label": 101
+    },
+    {
+        "intent": "restaurant_reviews",
+        "label": 102
+    },
+    {
+        "intent": "restaurant_suggestion",
+        "label": 103
+    },
+    {
+        "intent": "rewards_balance",
+        "label": 104
+    },
+    {
+        "intent": "roll_dice",
+        "label": 105
+    },
+    {
+        "intent": "rollover_401k",
+        "label": 106
+    },
+    {
+        "intent": "routing",
+        "label": 107
+    },
+    {
+        "intent": "schedule_maintenance",
+        "label": 108
+    },
+    {
+        "intent": "schedule_meeting",
+        "label": 109
+    },
+    {
+        "intent": "share_location",
+        "label": 110
+    },
+    {
+        "intent": "shopping_list",
+        "label": 111
+    },
+    {
+        "intent": "shopping_list_update",
+        "label": 112
+    },
+    {
+        "intent": "smart_home",
+        "label": 113
+    },
+    {
+        "intent": "spelling",
+        "label": 114
+    },
+    {
+        "intent": "spending_history",
+        "label": 115
+    },
+    {
+        "intent": "sync_device",
+        "label": 116
+    },
+    {
+        "intent": "taxes",
+        "label": 117
+    },
+    {
+        "intent": "tell_joke",
+        "label": 118
+    },
+    {
+        "intent": "text",
+        "label": 119
+    },
+    {
+        "intent": "thank_you",
+        "label": 120
+    },
+    {
+        "intent": "time",
+        "label": 121
+    },
+    {
+        "intent": "timer",
+        "label": 122
+    },
+    {
+        "intent": "timezone",
+        "label": 123
+    },
+    {
+        "intent": "tire_change",
+        "label": 124
+    },
+    {
+        "intent": "tire_pressure",
+        "label": 125
+    },
+    {
+        "intent": "todo_list",
+        "label": 126
+    },
+    {
+        "intent": "todo_list_update",
+        "label": 127
+    },
+    {
+        "intent": "traffic",
+        "label": 128
+    },
+    {
+        "intent": "transactions",
+        "label": 129
+    },
+    {
+        "intent": "transfer",
+        "label": 130
+    },
+    {
+        "intent": "translate",
+        "label": 131
+    },
+    {
+        "intent": "travel_alert",
+        "label": 132
+    },
+    {
+        "intent": "travel_notification",
+        "label": 133
+    },
+    {
+        "intent": "travel_suggestion",
+        "label": 134
+    },
+    {
+        "intent": "uber",
+        "label": 135
+    },
+    {
+        "intent": "update_playlist",
+        "label": 136
+    },
+    {
+        "intent": "user_name",
+        "label": 137
+    },
+    {
+        "intent": "vaccines",
+        "label": 138
+    },
+    {
+        "intent": "w2",
+        "label": 139
+    },
+    {
+        "intent": "weather",
+        "label": 140
+    },
+    {
+        "intent": "what_are_your_hobbies",
+        "label": 141
+    },
+    {
+        "intent": "what_can_i_ask_you",
+        "label": 142
+    },
+    {
+        "intent": "what_is_your_name",
+        "label": 143
+    },
+    {
+        "intent": "what_song",
+        "label": 144
+    },
+    {
+        "intent": "where_are_you_from",
+        "label": 145
+    },
+    {
+        "intent": "whisper_mode",
+        "label": 146
+    },
+    {
+        "intent": "who_do_you_work_for",
+        "label": 147
+    },
+    {
+        "intent": "who_made_you",
+        "label": 148
+    },
+    {
+        "intent": "yes",
+        "label": 149
+    }
+]

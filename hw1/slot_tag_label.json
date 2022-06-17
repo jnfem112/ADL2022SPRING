@@ -1,0 +1,42 @@
+[
+    {
+        "tag": "B-date",
+        "label": 0
+    },
+    {
+        "tag": "B-first_name",
+        "label": 1
+    },
+    {
+        "tag": "B-last_name",
+        "label": 2
+    },
+    {
+        "tag": "B-people",
+        "label": 3
+    },
+    {
+        "tag": "B-time",
+        "label": 4
+    },
+    {
+        "tag": "I-date",
+        "label": 5
+    },
+    {
+        "tag": "I-people",
+        "label": 6
+    },
+    {
+        "tag": "I-time",
+        "label": 7
+    },
+    {
+        "tag": "O",
+        "label": 8
+    },
+    {
+        "tag": "PAD",
+        "label": 9
+    }
+]
