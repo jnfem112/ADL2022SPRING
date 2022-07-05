@@ -26,7 +26,7 @@ def main(args):
 	accelerator = Accelerator(fp16 = True)
 	device = accelerator.device
 	print('load data...')
-	test_data = load_jsonl(args.test_data)[:10]
+	test_data = load_jsonl(args.test_data)
 	print('test model...')
 	tokenizer = AutoTokenizer.from_pretrained(args.model_name)
 	model = AutoModelForSeq2SeqLM.from_pretrained(args.checkpoint_name)
